@@ -32,22 +32,6 @@ Organized by SEEK & IEEE at Capital University of Science and Technology, Islama
 
 ## 🧠 How It Works
 
-📡 **Sense** → Ultrasonic sensor reads distance ahead continuously
-
-&nbsp;
-
-⬇️ &nbsp; Is there an obstacle within **15cm**?
-
-&nbsp;
-
-✅ **YES** &nbsp;→&nbsp; 🛑 Stop &nbsp;→&nbsp; ⬅️ Reverse 300ms &nbsp;→&nbsp; 👀 Scan Right & Left &nbsp;→&nbsp; 🔄 Turn to open side
-
-❌ **NO** &nbsp;&nbsp;→&nbsp; 🚀 Drive forward with gradual speed ramp-up
-
-&nbsp;
-
-🔁 **Repeat** → Loop runs every 40ms
-
 1. 📡 **Measure** — HC-SR04 ultrasonic sensor continuously reads distance ahead
 2. 🛑 **React** — Stops, reverses, and scans left & right when obstacle is within 15cm
 3. 🔄 **Decide** — Turns toward whichever side has more open space
