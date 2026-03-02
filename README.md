@@ -6,10 +6,11 @@
 ![Language](https://img.shields.io/badge/Language-C++-blue?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 ![Competition](https://img.shields.io/badge/RoboCUST_2024-1st_Place_🏆-gold?style=for-the-badge)
+![DLD](https://img.shields.io/badge/Semester_Project-Digital_Logic_Design-purple?style=for-the-badge)
 
 ### 🏆 1st Position — Robo Maze Category
-**RoboCUST Robotics Competition**  
-Organized by SEEK & IEEE at Capital University of Science and Technology, Islamabad  
+**RoboCUST Robotics Competition**
+Organized by SEEK & IEEE at Capital University of Science and Technology, Islamabad
 📅 March 2nd, 2024
 
 </div>
@@ -27,6 +28,12 @@ Organized by SEEK & IEEE at Capital University of Science and Technology, Islama
 
 *The Maze-Solver-Car alongside its 1st place shield from RoboCUST 2024* 🏆
 </div>
+
+---
+
+## 🎓 About This Project
+
+This car was built as a **semester project for Digital Logic Design (DLD)** and later competed in the **RoboCUST 2024 Robotics Competition** where it won **1st place** in the Robo Maze category. It operates fully autonomously — no remote control, no pre-programmed path — using real-time ultrasonic sensing to navigate through obstacles.
 
 ---
 
@@ -157,5 +164,7 @@ This project is open-source under the [MIT License](LICENSE).
 <div align="center">
 
 Built in Islamabad, Pakistan 🇵🇰
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huda_Usman-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/hudausman010)
 
 </div>
