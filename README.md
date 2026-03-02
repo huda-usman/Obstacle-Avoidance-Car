@@ -10,7 +10,7 @@ An autonomous robot car that detects obstacles using an ultrasonic sensor and st
 
 ## 📷 The Car in Action
 
-![Maze-Solver-Car with 1st Position Certificate](./photo.jpg)
+![Maze-Solver-Car with 1st Position Certificate](./photo.png)
 
 *The Maze-Solver-Car alongside its 1st place certificate from RoboCUST 2024.*
 
