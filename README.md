@@ -32,23 +32,21 @@ Organized by SEEK & IEEE at Capital University of Science and Technology, Islama
 
 ## 🧠 How It Works
 
-```
-┌─────────────────────────────────────────────────────┐
-│                  OBSTACLE DETECTED?                  │
-│                                                      │
-│   ┌─── YES (≤15cm) ──────────────────────────────┐  │
-│   │  1. Stop immediately                          │  │
-│   │  2. Reverse for 300ms                         │  │
-│   │  3. Look RIGHT → measure distance             │  │
-│   │  4. Look LEFT  → measure distance             │  │
-│   │  5. Turn toward more open side                │  │
-│   └───────────────────────────────────────────────┘  │
-│                                                      │
-│   ┌─── NO ───────────────────────────────────────┐  │
-│   │  Drive forward (gradual speed ramp-up)        │  │
-│   └───────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────┘
-```
+📡 **Sense** → Ultrasonic sensor reads distance ahead continuously
+
+&nbsp;
+
+⬇️ &nbsp; Is there an obstacle within **15cm**?
+
+&nbsp;
+
+✅ **YES** &nbsp;→&nbsp; 🛑 Stop &nbsp;→&nbsp; ⬅️ Reverse 300ms &nbsp;→&nbsp; 👀 Scan Right & Left &nbsp;→&nbsp; 🔄 Turn to open side
+
+❌ **NO** &nbsp;&nbsp;→&nbsp; 🚀 Drive forward with gradual speed ramp-up
+
+&nbsp;
+
+🔁 **Repeat** → Loop runs every 40ms
 
 1. 📡 **Measure** — HC-SR04 ultrasonic sensor continuously reads distance ahead
 2. 🛑 **React** — Stops, reverses, and scans left & right when obstacle is within 15cm
