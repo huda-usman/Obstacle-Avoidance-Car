@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0000,100:cc0000&height=160&text=Obstacle%20Avoidance%20Car&fontSize=38&fontColor=ffffff&fontAlignY=55&desc=The%20Maze-Solver-Car%20%7C%20RoboCUST%202024%20%F0%9F%8F%86%201st%20Place&descAlignY=75&descSize=14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a0000,100:cc0000&height=160&text=Obstacle%20Avoidance%20Car&fontSize=36&fontColor=ffffff&fontAlignY=55&desc=The%20Maze-Solver-Car%20%7C%20RoboCUST%202024%20%F0%9F%8F%86%201st%20Place&descAlignY=75&descSize=14" width="100%"/>
 
 <br/>
 
