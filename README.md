@@ -192,14 +192,16 @@ This project is open-source under the [MIT License](LICENSE).
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:cc0000,100:0a0000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:cc0000,100:0a0000&height=100&section=footer" width="100%"/>
 
-### 👩‍💻 About the Author
+### 🙋‍♀️ Connect with Me
 
-**Huda Usman** — Hardware & Software Developer
+Developed by **Huda Usman**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huda%20Usman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hudausman010)
 
-Built in Islamabad, Pakistan 🇵🇰
+<br/>
+
+⭐ **If you found this project interesting, please give it a star!** ⭐
 
 </div>
